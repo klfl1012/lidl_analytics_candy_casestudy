@@ -1,3 +1,3 @@
-# Lidl Analytics - Candy Casestudy
+# Lidl Analytics - Candy Case Study
 
-This is a casestudy created for an interview for a position as data science intern at Lidl Analytics in Germany
+This is a case study created for an interview for a Data Science Intern position at Lidl Analytics in in Germany.
